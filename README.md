@@ -1,1 +1,1 @@
-# YouTubePlaylistsChromeExtension
+# YouTube Playlists Chrome Extension
